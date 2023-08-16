@@ -1,4 +1,4 @@
-[![MasterHead](https://thuthuatnhanh.com/wp-content/uploads/2020/09/hinh-anh-gif-thanh-pho-xuong-den.gif)](github.com/hoangphuong22)
+[![MasterHead](https://thuthuatnhanh.com/wp-content/uploads/2020/09/hinh-anh-gif-thanh-pho-xuong-den.gif)]
 <h1 align="center">Hi 👋, I'm Hoang Phuong</h1>
 <h3 align="center">I am a programmer with many dreams and ambitions from the beautiful and faraway country of Vietnam.</h3>
 
