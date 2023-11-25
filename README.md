@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hoangphuong22&label=Profile%20views&color=0e75b6&style=flat" alt="hoangphuong22" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning Engineer**
+- 🌱 I’m currently learning **Software Engineer**
 
 - 📫 How to reach me **phuongkaito3183@gmail.com**
 
