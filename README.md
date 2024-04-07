@@ -1,4 +1,4 @@
-![MasterHead](https://gocnhoannie.com/wp-content/uploads/2020/07/S%E1%BB%B1-nghi%E1%BB%87p-kh%C3%B4ng-ph%E1%BA%A3i-l%C3%BAc-n%C3%A0o-c%C5%A9ng-l%C3%A0-m%E1%BB%99t-%C4%91%C6%B0%E1%BB%9Dng-th%E1%BA%B3ng.gif)
+![MasterHead](https://antimatter.vn/wp-content/uploads/2022/04/hinh-nen-dong-powerpoint-chat-luong-cao.gif)
 <h1 align="center">Hi 👋, I'm Hoang Phuong</h1>
 <h3 align="center">I am a programmer with many dreams and ambitions from the beautiful and faraway country of Vietnam.</h3>
 
@@ -7,7 +7,7 @@
 - 📫 How to reach me **phuongkaito3183@gmail.com**
 
 - ⚡ Fun fact **I am funny**
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHV5Y2gyODU3eDYzMGo2ZDFva2h6bXV2MXY1ZGp4cG5kNzBzdXB3byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/hoang.phuong3183" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hoang.phuong3183" height="30" width="40" /></a>
